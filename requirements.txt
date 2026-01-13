@@ -1,0 +1,7 @@
+pandas
+selenium
+webdriver-manager
+scikit-learn
+numpy
+beautifulsoup4
+requests
